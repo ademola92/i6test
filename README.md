@@ -9,5 +9,8 @@
 
 - If you installed Cypress via npm: 
     - cypress test runner (cypress __open__):
-      - **`npx cypress run`
+      - `npx cypress run`
     
+## :bulb: Information
+#### :test_tube: Tests:
+:file_folder: Tests are located in `cypress/e2e/1-getting-started` folder
