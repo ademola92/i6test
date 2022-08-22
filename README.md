@@ -9,5 +9,5 @@
 
 - If you installed Cypress via npm: 
     - cypress test runner (cypress __open__):
-      - **`npx cypress open`
+      - **`npx cypress run`
     
